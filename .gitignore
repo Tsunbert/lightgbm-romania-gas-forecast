@@ -3,6 +3,3 @@ Data/exog_data.csv
 Data/raw_data.csv
 Notebooks/jointedTTF.csv
 Notebooks/rTTF.csv
-
-# Notebooks
-Notebooks/LightGBM_GHD_features.ipynb
